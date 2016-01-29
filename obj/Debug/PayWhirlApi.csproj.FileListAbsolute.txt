@@ -1,0 +1,5 @@
+C:\Projects\PayWhirlApi\bin\Debug\PayWhirlApi.dll
+C:\Projects\PayWhirlApi\bin\Debug\PayWhirlApi.pdb
+C:\Projects\PayWhirlApi\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\PayWhirlApi\obj\Debug\PayWhirlApi.dll
+C:\Projects\PayWhirlApi\obj\Debug\PayWhirlApi.pdb

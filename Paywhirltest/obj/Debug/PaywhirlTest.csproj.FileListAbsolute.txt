@@ -1,0 +1,10 @@
+C:\Projects\PayWhirlApi\Paywhirltest\obj\Debug\PaywhirlTest.csprojResolveAssemblyReference.cache
+C:\Projects\PayWhirlApi\Paywhirltest\bin\Debug\PaywhirlTest.dll
+C:\Projects\PayWhirlApi\Paywhirltest\bin\Debug\PaywhirlTest.pdb
+C:\Projects\PayWhirlApi\Paywhirltest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\PayWhirlApi\Paywhirltest\bin\Debug\PayWhirlApi.dll
+C:\Projects\PayWhirlApi\Paywhirltest\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\PayWhirlApi\Paywhirltest\bin\Debug\PayWhirlApi.pdb
+C:\Projects\PayWhirlApi\Paywhirltest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\PayWhirlApi\Paywhirltest\obj\Debug\PaywhirlTest.dll
+C:\Projects\PayWhirlApi\Paywhirltest\obj\Debug\PaywhirlTest.pdb
