@@ -14,8 +14,8 @@ namespace PaywhirlTest
     [TestClass]
     public class IntegrationTest1
     {
-        private string api_key = "PW2BF7D8BBE8A19F4050D0DABCA606F1DE";
-        private string api_secret = "PWSCD22C30BC10BB0FED41D44C30ED29370D";
+        private string api_key = "";
+        private string api_secret = "";
         NameValueCollection nv = new NameValueCollection();
 
         [TestMethod]
