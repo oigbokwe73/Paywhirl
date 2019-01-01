@@ -69,7 +69,7 @@ namespace PaywhirlTest
             if (response1 != null)
             {
                 nv.Add("id", response1[0].Id);
-                nv.Add("password", "Password@1");
+                nv.Add("password", "xxxxxxxx");
                 var response = payWhirlBC.UpdateSubcriber(nv);
             }
         }
